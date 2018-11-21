@@ -12,6 +12,6 @@ Number of rating 3 reviews: 199 <br>
 Number of rating 4 reviews: 211 <br>
 Number of rating 5 reviews: 205 <br>
 
-The dataset may be used freely, but if you want to publish paper/publication using this dataset, please cite this publication:
-Fauzi, M.A., 2018. Indonesian review rating prediction using support vector machines and N-gram. Journal of Southwest Jiaotong University, 53(5).
+The dataset may be used freely, but if you want to publish paper/publication using this dataset, please cite this publication: <br><br>
+Fauzi, M.A., 2018. Indonesian review rating prediction using support vector machines and N-gram. Journal of Southwest Jiaotong University, 53(5). <br>
 http://www.jsju.org/index.php/journal/article/view/237
