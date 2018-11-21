@@ -4,7 +4,7 @@ The Dataset for Rating Prediction of Product Reviews in Indonesian Language
 
 Dataset is collected from FemaleDaily website (https://femaledaily.com/).
 The dataset is a three columns data of: no - review - rating, consist of 1000 reviews in the Indonesian language. 
-The label is rating 1, 2, 3, 4, and 5.
+The label is rating 1, 2, 3, 4, or 5.
 
 Number of rating 1 reviews: 188
 Number of rating 2 reviews: 197
